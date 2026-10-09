@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://typing-speed-two-gamma.vercel.app/sitemap.xml

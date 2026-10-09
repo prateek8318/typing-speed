@@ -132,7 +132,9 @@ export default function Game() {
   return (
     <div className="flex flex-col items-center w-full max-w-4xl mx-auto fade-in h-[75vh] relative overflow-hidden rounded-xl border border-slate-700 bg-slate-900">
       <Helmet>
-        <title>Game - typingspeedpro</title>
+        <title>Z-Type Clone - Typing Defense Game | Typing Speed Pro</title>
+        <meta name="description" content="Play our Z-Type inspired typing defense game. Type falling words quickly to defend your base and improve your typing speed in a fun way!" />
+        <meta name="keywords" content="typing game, z-type clone, type defense, fun typing test, keyboard game" />
       </Helmet>
 
       {/* Header / HUD */}

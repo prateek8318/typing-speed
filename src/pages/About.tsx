@@ -5,7 +5,8 @@ export default function About() {
   return (
     <div className="max-w-3xl mx-auto w-full fade-in">
       <Helmet>
-        <title>About - typingspeedpro</title>
+        <title>About Us | Typing Speed Pro</title>
+        <meta name="description" content="Learn about Typing Speed Pro, a minimalist typing test platform designed to help you focus and increase your WPM through distraction-free practice." />
       </Helmet>
       
       <div className="flex items-center space-x-3 mb-8">

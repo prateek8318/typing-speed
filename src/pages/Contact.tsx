@@ -5,7 +5,8 @@ export default function Contact() {
   return (
     <div className="max-w-3xl mx-auto w-full fade-in">
       <Helmet>
-        <title>Contact - typingspeedpro</title>
+        <title>Contact Us | Typing Speed Pro</title>
+        <meta name="description" content="Get in touch with the Typing Speed Pro team for support, feedback, or feature requests regarding our typing test platform." />
       </Helmet>
       
       <div className="flex items-center space-x-3 mb-8">

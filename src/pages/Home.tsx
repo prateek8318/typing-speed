@@ -20,7 +20,12 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center w-full fade-in">
       <Helmet>
-        <title>typingspeedpro</title>
+        <title>Typing Speed Test Pro - Improve Your WPM Today</title>
+        <meta name="description" content="Take a free typing speed test to check your WPM and accuracy. Improve your typing skills with our clean, distraction-free environment." />
+        <meta name="keywords" content="typing test, speed test, WPM, improve typing speed, keyboard practice, words per minute" />
+        <meta property="og:title" content="Typing Speed Test Pro" />
+        <meta property="og:description" content="Check and improve your typing speed (WPM) with our free minimalist typing test." />
+        <meta property="og:url" content="https://typing-speed-two-gamma.vercel.app/" />
       </Helmet>
       
       <div className="flex justify-center mb-8 bg-slate-800/50 rounded-xl p-2 gap-4 text-sm font-semibold text-slate-500 flex-wrap">
